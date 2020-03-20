@@ -4,13 +4,21 @@ Guess what three words have in common. BUT! The letters of each work are initial
 
 e.g.
 For Zoe, you would first see
-_ _ _ 
+```
+_ _ _
+```
 Next you would see
+```
 Z _ _
+```
 Then
+```
 Z o _
+```
 And finally
+```
 Z o e
+```
 
 This is based on a mini-game from the BBC TV series House of Games hosted by Richard Osman
 
